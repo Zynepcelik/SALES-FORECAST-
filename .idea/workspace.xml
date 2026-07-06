@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5db7f898-8f41-4cb7-8ca5-e16ae3ab9c56" name="Changes" comment="pyinstaller komutu sadelestirildi">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sales_forecasting(zey).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/data/forecast_results.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/data/forecast_scenarios.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/data/historical_sales.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/data/hybrid.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/data/validation_comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/files/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/files/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/logo.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/src/data_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/src/features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/src/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/src/visualize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_forecasting(zey)/validation_comparison.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +18,12 @@
     &quot;assignee&quot;: &quot;Zynepcelik&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Zynepcelik/Sales-Forecast-Dashboard.git&quot;,
-    &quot;accountId&quot;: &quot;e7b589e5-be5d-4564-82cc-9ea28cdaaa79&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Zynepcelik/SALES-FORECAST-.git",
+    "accountId": "e7b589e5-be5d-4564-82cc-9ea28cdaaa79"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
@@ -56,21 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/celikz/Desktop/proje Z/sales_forecasting(zey)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/celikz/Desktop/proje Z/sales_forecasting(zey)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="sales_forecasting(zey)" />
@@ -122,7 +99,7 @@
       <workItem from="1783075977832" duration="129000" />
       <workItem from="1783077849299" duration="9661000" />
       <workItem from="1783314229156" duration="604000" />
-      <workItem from="1783314913138" duration="16172000" />
+      <workItem from="1783314913138" duration="18946000" />
     </task>
     <task id="LOCAL-00001" summary="Ilk yukleme">
       <option name="closed" value="true" />

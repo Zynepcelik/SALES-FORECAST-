@@ -1,0 +1,1 @@
+import os, sys, streamlit.web.cli as stcli; base_path = os.path.dirname(os.path.abspath(__file__)); script_path = os.path.join(base_path, "app.py"); sys.argv = ["streamlit", "run", script_path, "--global.developmentMode=false"]; sys.exit(stcli.main())

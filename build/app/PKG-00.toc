@@ -1,0 +1,79 @@
+('C:\\Users\\celikz\\Desktop\\proje '
+ 'Z\\sales_forecasting(zey)\\build\\app\\app.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\build\\app\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\build\\app\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\build\\app\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\build\\app\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\build\\app\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\build\\app\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('app',
+   'C:\\Users\\celikz\\Desktop\\proje '
+   'Z\\sales_forecasting(zey)\\sales_forecasting(zey)\\app.py',
+   'PYSOURCE'),
+  ('run_app',
+   'C:\\Users\\celikz\\Desktop\\proje Z\\sales_forecasting(zey)\\run_app.py',
+   'PYSOURCE')],
+ 'python314.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
