@@ -531,7 +531,7 @@ with tab3:
         st.image(path, use_container_width=True)
 
     # --- AY BAZLI DETAYLI VERİ TABLOSU EKLEMESİ ---
-    st.markdown("#### 📅 Monthly Forecast Data Table (Ay Bazlı Tahmin Detayları)")
+    st.markdown("#### 📅 Monthly Forecast Data Table ")
     st.caption(
         "Aşağıdaki interaktif tabloyu kullanarak gelecek yılların tahminlerini ay ay filtreleyebilir ve inceleyebilirsiniz.")
 
