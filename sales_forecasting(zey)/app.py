@@ -302,7 +302,7 @@ with st.sidebar:
     with st.expander("Model Timelines", expanded=True):
         start_year = st.number_input("Training Start Year", value=2022, step=1)
         split_year = st.number_input("Validation Split Year", value=2025, step=1)
-        horizon_years = st.slider("Forecast Horizon (Years)", 1, 15, 10)
+        horizon_years = st.slider("Forecast Horizon (Years)", 1, 10, 10)
 
     st.markdown("##")
     run_button = st.button("Run Forecast Pipeline", type="primary", use_container_width=True)
